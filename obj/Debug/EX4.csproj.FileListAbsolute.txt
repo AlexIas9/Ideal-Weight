@@ -1,0 +1,12 @@
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\II\Laborator 1\EX4\bin\Debug\EX4.exe.config
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\II\Laborator 1\EX4\bin\Debug\EX4.exe
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\II\Laborator 1\EX4\bin\Debug\EX4.pdb
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\II\Laborator 1\EX4\obj\Debug\EX4.csproj.CoreCompileInputs.cache
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\II\Laborator 1\EX4\obj\Debug\EX4.exe
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\II\Laborator 1\EX4\obj\Debug\EX4.pdb
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 1\EX4\bin\Debug\EX4.exe.config
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 1\EX4\bin\Debug\EX4.exe
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 1\EX4\bin\Debug\EX4.pdb
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 1\EX4\obj\Debug\EX4.csproj.CoreCompileInputs.cache
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 1\EX4\obj\Debug\EX4.exe
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 1\EX4\obj\Debug\EX4.pdb
